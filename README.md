@@ -1,8 +1,8 @@
 # mini-os
 
-In this project, I built a simple operating system which uses x86 architecture, and supports multithreading, running user programs and file systems.
+In this project, I built a simple operating system which uses x86 architecture, and supports multithreading, running user programs and a basic file system.
 
-The system was designed with three key pieces of functionality in mind:
+The project was designed with three key pieces of functionality in mind:
 
 1) User Programs: Developing support for user programs, to allow for argument passing, floating point instructions, process control syscalls and file operation syscalls.
 
